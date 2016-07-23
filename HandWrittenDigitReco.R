@@ -1,5 +1,5 @@
 ptm <- proc.time()
-setwd("~/GT/Spring 2016/ISYE6740 Computational Data Analysis/R code")
+
 library("mvtnorm")
 library("MASS")
 
